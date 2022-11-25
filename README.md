@@ -17,6 +17,6 @@ this course include:
 - Trees, binary search trees, AVL trees, multi-way search trees, (2,4)-trees, and B-trees
 - Graphs, graph traversals, and graph algorithms
 - Sorting algorithms.
-
+-----------------------------------------------------------
 - Assignment 2 - Tic Tac Toe (Hash table seperate chaining)
 - Assignment 4 - Pac Man (Binary Search Tree)
