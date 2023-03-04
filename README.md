@@ -18,5 +18,5 @@ this course include:
 - Graphs, graph traversals, and graph algorithms
 - Sorting algorithms.
 -----------------------------------------------------------
-- Assignment 2 - Tic Tac Toe (Hash table seperate chaining)
-- Assignment 4 - Pac Man (Binary Search Tree)
+##Assignment 2 - Tic Tac Toe (Hash table seperate chaining)
+##Assignment 4 - Pac Man (Binary Search Tree)
